@@ -16,7 +16,7 @@
     "45A6nXFUmM": {
         "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasnt been activated or is still being acivated",
+        "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
         "System Owner": {
             "DiscordID": 0,
             "RobloxID": 0
@@ -26,7 +26,7 @@
     "6PpBHz7B9V": {
         "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasnt been activated or is still being acivated",
+        "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
         "System Owner": {
             "DiscordID": 0,
             "RobloxID": 0
