@@ -3,17 +3,17 @@
       "USERID" :  500595751
     },
     
-    "WtQp3jq5Ex": {
+    "3zA3nn5TggQr1Enb": {
         "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "Nil",
+        "KickMsg": "Testing Keys for USD Avatar Inspector",
         "System Owner": {
-            "DiscordID": 881474374413209610,
-            "RobloxID": 2371800278
+            "DiscordID": 457220440163876865,
+            "RobloxID": 500595751
         }
     },
     
-    "45A6nXFUmM": {
+    "chfAamkaqj1fxb": {
         "SystemLicense": false,
         "ChargeBack" : false,
         "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
@@ -23,7 +23,27 @@
         }
     },
     
-    "6PpBHz7B9V": {
+    "mM2LbpyPDPLbbV8": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
+        "System Owner": {
+            "DiscordID": 0,
+            "RobloxID": 0
+        }
+    },
+
+        "gsGJnWbeCiR1Py9": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
+        "System Owner": {
+            "DiscordID": 0,
+            "RobloxID": 0
+        }
+    },
+
+        "xvjvAtfeuZBVG8C": {
         "SystemLicense": false,
         "ChargeBack" : false,
         "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
