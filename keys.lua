@@ -18,8 +18,8 @@
         "ChargeBack" : false,
         "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 1052702134371623034,
+            "RobloxID": 2737585846
         }
     },
     
@@ -28,8 +28,8 @@
         "ChargeBack" : false,
         "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 421818401975959563,
+            "RobloxID": 138579882
         }
     },
 
