@@ -18,8 +18,8 @@
         "ChargeBack" : false,
         "KickMsg": "s15x Partnership API KEY | Toch",
         "System Owner": {
-            "DiscordID": 1052702134371623034,
-            "RobloxID": 2737585846
+            "DiscordID": 985224795601907803,
+            "RobloxID": 1949034373
         }
     },
 
@@ -28,8 +28,8 @@
         "ChargeBack" : false,
         "KickMsg": "s15x Partnership API KEY | Vero",
         "System Owner": {
-            "DiscordID": 1052702134371623034,
-            "RobloxID": 2737585846
+            "DiscordID": 829375147831197709,
+            "RobloxID": 2969626025
         }
     },
     
