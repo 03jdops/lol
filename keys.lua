@@ -64,7 +64,7 @@
     },
 
         "xvjvAtfeuZBVG8C": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
         "KickMsg": "API Key has been activated | V5 System",
         "System Owner": {
