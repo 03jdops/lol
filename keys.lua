@@ -12,6 +12,26 @@
             "RobloxID": 500595751
         }
     },
+
+    "5Rg5BtnMhLjEbpitdNmF": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "s15x Partnership API KEY | Toch",
+        "System Owner": {
+            "DiscordID": 1052702134371623034,
+            "RobloxID": 2737585846
+        }
+    },
+
+        "DF36Ji0u1fGZRYAsz3JC": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "s15x Partnership API KEY | Vero",
+        "System Owner": {
+            "DiscordID": 1052702134371623034,
+            "RobloxID": 2737585846
+        }
+    },
     
     "chfAamkaqj1fxb": {
         "SystemLicense": false,
