@@ -94,6 +94,33 @@
     },
 
             "M2PuhXd84nzNNaR": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "API Key has been activated | USD System",
+        "System Owner": {
+            "DiscordID": 1182714737868415099,
+            "RobloxID": 4227664740
+        }
+    },
+            "Vw0iBsVK0UZsjfzje5N1": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
+        "System Owner": {
+            "DiscordID": 0,
+            "RobloxID": 0
+        }
+    },
+            "RJ9UJNw3dXFxJ8bA99Gw": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
+        "System Owner": {
+            "DiscordID": 0,
+            "RobloxID": 0
+        }
+    },
+            "eKKKr7GG9VVeU2t5ywFN": {
         "SystemLicense": false,
         "ChargeBack" : false,
         "KickMsg": "API Key hasnt been activated or is still being acivated please wait 5 minutes",
