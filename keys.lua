@@ -168,7 +168,7 @@
             "UsrAGKT258ojA5edHtJU": {
         "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | USD System",
+        "KickMsg": "API Key has been activated | V5 System",
         "System Owner": {
             "DiscordID": 930510572892610641,
             "RobloxID": 2755091292
