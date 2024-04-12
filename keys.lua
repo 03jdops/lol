@@ -164,5 +164,68 @@
             "DiscordID": 552691429529616385,
             "RobloxID": 94059356
         }
+    },
+            "UsrAGKT258ojA5edHtJU": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "API Key has been activated | USD System",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
+    },
+            "HufZ0JJhokK1rYXEkKAD": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasn't been activated or is still activating",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
+    },
+            "VxrM5ey8fW8QDbezEFgq": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasn't been activated or is still activating",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
+    },
+            "GBL1AdFTDoPRUCfsCWy1": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasn't been activated or is still activating",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
+    },
+            "VX4eWoEkChFJk3AoV8Zp": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasn't been activated or is still activating",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
+    },
+            "Z3Jo4LFpoknrTtC9qJMw": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasn't been activated or is still activating",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
+    },
+            "idYFty1CjoKNBtqerEhq": {
+        "SystemLicense": false,
+        "ChargeBack" : false,
+        "KickMsg": "API Key hasn't been activated or is still activating",
+        "System Owner": {
+            "DiscordID": 552691429529616385,
+            "RobloxID": 94059356
+        }
     }
 }
