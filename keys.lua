@@ -220,12 +220,12 @@
         }
     },
             "idYFty1CjoKNBtqerEhq": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasn't been activated or is still activating",
+        "KickMsg": "API Key has been activated | V5 System",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 772914172173221888,
+            "RobloxID": 3516736633
         }
     },
             "WrZ3HGZpYBF9ZA6vmLeC": {
