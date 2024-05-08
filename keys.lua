@@ -229,9 +229,9 @@
         }
     },
             "WrZ3HGZpYBF9ZA6vmLeC": {
-        "SystemLicense": true,
+        "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | V4 System",
+        "KickMsg": "Violated s15x TOS Attempted to resell s15x assets",
         "System Owner": {
             "DiscordID": 1177674394487767150,
             "RobloxID": 4102668780
