@@ -258,10 +258,10 @@
             "BfdpGCRDkVrzagRg6nh4": {
         "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasn't been activated or is still activating",
+        "KickMsg": "API Key has been activated | V4 System",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 760645324779552778,
+            "RobloxID": 4641334683
         }
     },
             "9v4KEL7MQeTw1rcMjDJu": {
