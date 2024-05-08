@@ -256,7 +256,7 @@
         }
     },
             "BfdpGCRDkVrzagRg6nh4": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
         "KickMsg": "API Key has been activated | V4 System",
         "System Owner": {
