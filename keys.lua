@@ -283,12 +283,12 @@
         }
     },
             "c7r1Qdim2Pf18e5y8j0Q": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasn't been activated or is still activating",
+        "KickMsg": "API Key has been activated | V5 Kityy System",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 693761751921197128,
+            "RobloxID": 288812884
         }
     },
             "5rqvg6dYWjVKRTonNEHA": {
