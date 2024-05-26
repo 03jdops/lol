@@ -285,19 +285,19 @@
             "c7r1Qdim2Pf18e5y8j0Q": {
         "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | V5 Kityy System",
+        "KickMsg": "API Key has been activated | V5 Kitty System",
         "System Owner": {
             "DiscordID": 693761751921197128,
             "RobloxID": 288812884
         }
     },
             "5rqvg6dYWjVKRTonNEHA": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasn't been activated or is still activating",
+        "KickMsg": "API Key has been activated | V4 System",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 994079770281250816,
+            "RobloxID": 443859806
         }
     },
             "aku9wsNz9u1PtLfAcyQq": {
