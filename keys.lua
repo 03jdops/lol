@@ -418,9 +418,9 @@
         }
     },
             "mZD9E0X0uwvJgn5VK92v": {
-        "SystemLicense": true,
+        "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | V4 System + Ownership change",
+        "KickMsg": "impersonation of a owner this system has been deactivated and now renders useless",
         "System Owner": {
             "DiscordID": 1188623611364392970,
             "RobloxID": 2611614378
