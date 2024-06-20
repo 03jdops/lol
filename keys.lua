@@ -420,7 +420,7 @@
             "mZD9E0X0uwvJgn5VK92v": {
         "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | V5 System",
+        "KickMsg": "API Key has been activated | V4 System + Ownership change",
         "System Owner": {
             "DiscordID": 1188623611364392970,
             "RobloxID": 2611614378
