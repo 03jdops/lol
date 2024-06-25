@@ -32,6 +32,16 @@
             "RobloxID": 2969626025
         }
     },
+
+        "8KLirJn71kcbmKe5mnQA": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "s15x Partnership API KEY | Round2NYC",
+        "System Owner": {
+            "DiscordID": 796178235028537415,
+            "RobloxID": 1269311728
+        }
+    },
     
     "chfAamkaqj1fxb": {
         "SystemLicense": true,
