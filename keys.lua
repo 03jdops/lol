@@ -455,12 +455,12 @@
         }
     },
             "sH5Mr2vuf8X8v9skayHW": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasn't been activated or is awaiting activation",
+        "KickMsg": "API Key has been activated | USD Avatar System",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 1118805079525441546,
+            "RobloxID": 462523610
         }
     },
             "HMPo406x79fQ8E1KWJe2": {
