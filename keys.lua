@@ -468,7 +468,7 @@
         "ChargeBack" : false,
         "KickMsg": "API Key has been activated | V4 System",
         "System Owner": {
-            "DiscordID": 217786044769239041,
+            "DiscordID": 1008518665186070568,
             "RobloxID": 6093309463
         }
     },
