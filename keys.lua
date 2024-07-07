@@ -42,6 +42,16 @@
             "RobloxID": 1269311728
         }
     },
+
+            "FkCw014LQTbsyK5q3im6KC6F1": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "s15x Partnership API KEY | Mrekk sexy key",
+        "System Owner": {
+            "DiscordID": 1231061126666653756,
+            "RobloxID": 4006726283
+        }
+    },
     
     "chfAamkaqj1fxb": {
         "SystemLicense": true,
