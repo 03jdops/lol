@@ -383,12 +383,12 @@
         }
     },
             "GpRGuHFCXbLYcw4KHNfd": {
-        "SystemLicense": true,
+        "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | V4 System",
+        "KickMsg": "This system contains a leaked key which has been disabled, This system is now rendered USLESS",
         "System Owner": {
-            "DiscordID": 1236833994906271857,
-            "RobloxID": 951358842
+            "DiscordID": 0,
+            "RobloxID": 0
         }
     },
             "nRBT3BHDnMK801qHRH6J": {
@@ -473,12 +473,12 @@
         }
     },
             "QyDT2AdgKqQhc8orLTBZ": {
-        "SystemLicense": false,
+        "SystemLicense": true,
         "ChargeBack" : false,
-        "KickMsg": "API Key hasn't been activated or is awaiting activation",
+        "KickMsg": "API Key has been activated | V4 System",
         "System Owner": {
-            "DiscordID": 0,
-            "RobloxID": 0
+            "DiscordID": 1236833994906271857,
+            "RobloxID": 951358842
         }
     },
             "tgyadffHey490GPEQJVV": {
