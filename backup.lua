@@ -1,4 +1,4 @@
 {
-  "Backup" : true
+  "Backup" : true,
   "DeactivatedKeys" : ['key']
 }
