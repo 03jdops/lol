@@ -1,6 +1,6 @@
 {
     "Backup": true,
     "DeactivatedKeys": [
-        "key"
+        "None"
     ]
 }
