@@ -535,5 +535,5 @@
             "DiscordID": 0,
             "RobloxID": 0
         }
-    },
+    }
 }
