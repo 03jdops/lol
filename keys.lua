@@ -526,5 +526,14 @@
             "DiscordID": 0,
             "RobloxID": 0
         }
-    }
+    },
+            "pvP9ATvgD7CryyGwzZ6N": {
+        "SystemLicense": true,
+        "ChargeBack" : false,
+        "KickMsg": "API Key has been activated | V5 System",
+        "System Owner": {
+            "DiscordID": 0,
+            "RobloxID": 0
+        }
+    },
 }
