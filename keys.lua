@@ -231,9 +231,9 @@
         }
     },
             "Z3Jo4LFpoknrTtC9qJMw": {
-        "SystemLicense": true,
+        "SystemLicense": false,
         "ChargeBack" : false,
-        "KickMsg": "API Key has been activated | V5 System",
+        "KickMsg": "API Key has been disabled from owner request, This file is now render USLESS and no longer will work: s15x services",
         "System Owner": {
             "DiscordID": 805445981805477908,
             "RobloxID": 2452462399
